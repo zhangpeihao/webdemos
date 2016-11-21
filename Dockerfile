@@ -1,4 +1,4 @@
-FROM golang:on-build
+FROM golang:onbuild
 
 MAINTAINER zhangpeihao <zhangpeihao@gmail.com>
 
